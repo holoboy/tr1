@@ -9,6 +9,11 @@ namespace ConsoleApp3
             Console.WriteLine("Hello World!");
             Console.ReadLine();
             Console.ReadLine();
+            Console.ReadLine();
+            Console.ReadLine();
+            int x= 1 + 1;
+            Console.WriteLine(x);
+
         }
     }
 }
